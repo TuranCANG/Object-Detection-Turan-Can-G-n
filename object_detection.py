@@ -1,3 +1,4 @@
+# WARNING !!! BEFORE RUNNING DELETE ALL COMMENTS
 # -*- coding: utf-8 -*-
 """Object detection.ipynb
 
