@@ -9,7 +9,7 @@ Original file is located at
 """
 
 # Commented out IPython magic to ensure Python compatibility.
-!git clone https://github.com/oballinger/yolov5_RS # gathering YOLOv5 repository it includes model code and parameters
+!git clone https://github.com/oballinger/yolov5_RS 
 # %cd yolov5_RS # placed the repository
 # %pip install -qr requirements.txt
 # %pip install -q roboflow # the package to load dataset from Roboflow
